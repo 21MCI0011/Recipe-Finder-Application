@@ -1,0 +1,23 @@
+.text-box{
+    padding: 20px;
+}
+.text-box p{
+    font-size: 18px;
+    font-weight: 700;
+    height: 70px;
+}
+.favorite-button {
+    background: #ff04ea;
+    color: #fff;
+    border: none;
+    padding: 8px 12px;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background 0.2s;
+  }
+  
+  .favorite-button:hover {
+    background: #d32f2f;
+  }
+  
